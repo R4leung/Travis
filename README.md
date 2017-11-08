@@ -1,1 +1,1 @@
-(https://travis-ci.org/R4leung/Travis.svg?branch=master)
+https://travis-ci.org/R4leung/Travis.svg?branch=master
